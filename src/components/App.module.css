@@ -1,0 +1,17 @@
+.section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(241, 97, 97, 0.663);
+    width: 500px;
+    margin: 0 auto;
+}
+.title {
+    color: #5f1212;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 700;
+    padding: 15px;
+    margin: 0;
+}

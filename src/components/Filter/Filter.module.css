@@ -1,0 +1,19 @@
+.label {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 10px;
+    font-size: 24px;
+    font-weight: 500;
+}
+.input {
+    font-size: 16px;
+    font-weight: 500; 
+    padding: 10px;   
+}
+.input::placeholder {
+    color: rgb(11, 11, 11);
+    font-size: 1.2em;
+    font-style: italic;
+    text-align: center;
+}
